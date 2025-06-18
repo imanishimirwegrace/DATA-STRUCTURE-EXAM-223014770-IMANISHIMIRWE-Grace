@@ -15,7 +15,7 @@ Annotated C++ Code with comment
 #include <iostream>                // Provides std::cin, std::cout for console I/O
 using namespace std;               // Saves us from prefixing std:: everywhere
 
-// ==============================<img width="398" alt="Screenshot 4" src="https://github.com/user-attachments/assets/b0ec5e83-207e-4e94-b9b5-f9201e94e9c9" />
+
 
 // ABSTRACT BASE CLASS: MatrixOp
 // ==============================
@@ -241,3 +241,4 @@ int main() {
 <img width="361" alt="Screenshot 1" src="https://github.com/user-attachments/assets/d21b6e8e-fed2-4ed7-abae-d3940ddfc023" />
 
 
+<img width="398" alt="Screenshot 4" src="https://github.com/user-attachments/assets/dbeef8ce-c503-40a3-abbd-dba2c946c704" />
