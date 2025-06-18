@@ -15,7 +15,8 @@ Annotated C++ Code with comment
 #include <iostream>                // Provides std::cin, std::cout for console I/O
 using namespace std;               // Saves us from prefixing std:: everywhere
 
-// ==============================
+// ==============================<img width="398" alt="Screenshot 4" src="https://github.com/user-attachments/assets/b0ec5e83-207e-4e94-b9b5-f9201e94e9c9" />
+
 // ABSTRACT BASE CLASS: MatrixOp
 // ==============================
 // This class defines the interface for any matrix operation.
